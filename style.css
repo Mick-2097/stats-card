@@ -36,7 +36,7 @@ main {
     padding: 4.5rem;
 }
 .rightSide {
-    width: 580px;
+    width: 565px;
     background-color: var(--v-acc);
     background-image: url(images/image-header-desktop.jpg);
     background-repeat: no-repeat;
