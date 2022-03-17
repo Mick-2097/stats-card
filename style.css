@@ -45,7 +45,6 @@ main {
 }
 h1 {
     font-family: 'Inter', sans-serif;
-    letter-spacing: 0.275px;
     color: var(--White-main);
     margin: 0 0 22px 0;
     font-weight: 700;
